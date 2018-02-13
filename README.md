@@ -1,5 +1,5 @@
 # Array Intersection
-Determines interection of two sets of input integer arrays.
+Determines intersection of two sets of input integer arrays.
 
 ## Exercise
 * Design and implement a method that takes two integer arrays and returns their intersection. The two input arrays have non repeating elements.
@@ -9,4 +9,5 @@ Determines interection of two sets of input integer arrays.
    - intersection of [9, 30, 42] and [56, 34, 90, 32] is []
 * Share and explain the time and space complexities for your solution.
 * If you think of multiple approaches to solve the problem, implement the solution which minimizes space complexity. Explain the other approaches, and your decision in comments above the code.
+
 **Note**: Do not use Ruby provided functionality.
